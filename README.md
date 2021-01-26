@@ -1,5 +1,3 @@
-# boostcourse-fullstack
-
 ## boostcourse - 웹 프로그래밍(풀스택) 과정
 
 1. 웹프로그래밍 기초
