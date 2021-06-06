@@ -20,6 +20,14 @@
 
 (뷰는 JSP, 비즈니스 로직은 Servlet)
 
+- 프레임워크에서 기능을 제공해주기 때문에, 현재는 직접 servlet을 써서 개발하지는 않음
+
+<br>
+
+### 3. Servlet 3.0 spec 이상
+
+
+### 4. Servlet 3.0 spec 이하
 
 
 
